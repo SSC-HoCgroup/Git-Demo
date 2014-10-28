@@ -11,7 +11,7 @@ git add playspace/my_github_username/
 ```
 3. Commit your changes before you begin experimenting with "git commit":
 ```
-git commit -m "Created a playspace folder for my_github_username - INITIALS"
+git commit -m "Created a playspace folder for my_github_username - MY INITIALS"
 ```
 4. Now go have fun!
 
