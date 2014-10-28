@@ -1,0 +1,11 @@
+Name: Molly Watson
+
+Short Bio: 
+My name is Molly, and I'm the Head Organizer for #HourofCode at South Seattle College. I am a post-baccalaureate student (which is just a fancy way of saying I already have a Bachelor's degree) and am currently working toward a Bachelor of Science degree by taking care of some prerequisites at South. I'm hoping to transfer into UW Bothell's Computer Science and Software Engineering (CSSE) program next Fall. I am passionate about all thing tech, and recently I've gotten more interested in Open Source development, and learning more about what Open Source projects have to offer.
+
+Coding/Tech interests:
+Web development, software development, mobile app programming (specifically for Android), database development / management, and game development.
+
+Message for the group: 
+Hello, all! I am so happy to have all of you on board to work on our group project this year. It should be a lot of fun and hopefully we'll all learn a lot together! I'm very much looking forward to getting to know each and every one of you! :)
+
