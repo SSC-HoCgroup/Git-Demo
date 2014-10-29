@@ -59,4 +59,4 @@
 9. Lastly, push your changes to our repo! Use the following command: 
 	* ```git push git-demo-origin master`
 	* When you run this command, you will need to enter your GitHub username and password in order to proceed
-	* **Note:** If you have not been added to our team (Part 1, \#3), you will receive an "Permission Denied" error from GitHub. If this happens, let me know: [E-mail me directly](mailto:mollyawatson@gmail.com)
+	* **Note:** If you have not been added to our team (Part 1, \#3), you will receive an "Permission Denied" error from GitHub. If this happens, let me know: [send me an email](mailto:mollyawatson@gmail.com).
