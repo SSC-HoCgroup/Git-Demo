@@ -17,7 +17,7 @@
 
 1. Install Git on your home system / primary development system using **one** of the following links:
 	* Download a compatible version of Git for your system: http://git-scm.com/downloads
-	* Download a Desktop client for your system: [Mac](https://mac.github.com/) | [Windows](https://windows.github.com/)
+	* Download a GitHub Desktop client for your system: [Mac](https://mac.github.com/) | [Windows](https://windows.github.com/)
 2. Walk through the Try Git Tutorial at least once: https://try.github.io/levels/1/challenges/1
 3. Download this handy list of commonly used Git commands: https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 4. Set up your global variables, using the following commands:
