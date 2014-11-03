@@ -49,14 +49,14 @@
 3. Next, open the file in the main Git-Demo repository titled 'participants.txt', and add your name to the bottom of the list. 
 4. In the Terminal / Command Line program, use the 'git status' command to check the state of your files. You should see that there is one new untracked file, and one new modified file.
 5. Add / update these files by using the 'git add' command, like so:
-	* ```git add introductions/your-name.txt`
-	* ```git add participants.txt`
+	* ```git add introductions/your-name.txt```
+	* ```git add participants.txt```
 6. Run 'git status' again to make sure that your files will be included in the next commit you make.
 7. Commit your changes! Use the command:
 	* ```git commit -m "Adding my information to participants and introductions - YOUR INITIALS"```
 8. Next, before you push to our repo, first do a 'pull' to make sure your repo is up-to-date.
-	* ```git pull git-demo-origin master`
+	* ```git pull git-demo-origin master```
 9. Lastly, push your changes to our repo! Use the following command: 
-	* ```git push git-demo-origin master`
+	* ```git push git-demo-origin master```
 	* When you run this command, you will need to enter your GitHub username and password in order to proceed
 	* **Note:** If you have not been added to our team (Part 1, \#3), you will receive an "Permission Denied" error from GitHub. If this happens, let me know: [send me an email](mailto:mollyawatson@gmail.com).
