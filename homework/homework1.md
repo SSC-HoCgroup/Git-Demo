@@ -1,25 +1,17 @@
 ##Homework \#1:
 =============
 
-**Due: November 2nd, 2014** at 11:59pm
-
-####Part 1: Join the GitHub team
+####Part 1: Join GitHub
 
 1. If you haven't already done so, create a GitHub account. It's free!
-2. Go to this URL: https://github.com/SSC-HoCgroup/Git-Demo
-3. In order to contribute to our project, you must first join our team. To do so, either:
-  * "Watch" the project (click on the "Watch" button in the top right corner of the screen) *or* 
-  * [E-mail me directly](mailto:mollyawatson@gmail.com) with your GitHub username
-
-**Note: Don't skip Part 1! You won't be able to participate in this homework unless you've been added to the team.**
 
 ####Part 2: Get Git Setup
 
 1. Install Git on your home system / primary development system using **one** of the following links:
 	* Download a compatible version of Git for your system: http://git-scm.com/downloads
 	* Download a GitHub Desktop client for your system: [Mac](https://mac.github.com/) | [Windows](https://windows.github.com/)
-2. Walk through the Try Git Tutorial at least once: https://try.github.io/levels/1/challenges/1
-3. Download this handy list of commonly used Git commands: https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+2. Walk through the [Try Git Tutorial](https://try.github.io/levels/1/challenges/1) at least once
+3. Download the [GitHub Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) for easy reference!
 4. Set up your global variables, using the following commands:
 	* ```git config --global user.name "Your Full Name"```
 	* ```git config --global user.email "Your email address"```
@@ -30,13 +22,14 @@
 2. Navigate to that folder in Terminal (Mac) or Command Line (Windows), or use one of the Desktop clients.
 3. Create a new git repository in that location by using the command:
 	* ```git init```
-4. Create a link to the remote GitHub Git-Demo repository by using the command:
-	* ```git remote add git-demo-origin https://github.com/SSC-HoCgroup/Git-Demo```
-5. Copy the remote Git-Demo repository's code to your computer using either one of these commands:
-	* ```git pull git-demo-origin master``` *or*
+4. Copy the remote Git-Demo repository's code to your computer using ```git clone```:
 	* ```git clone https://github.com/SSC-HoCgroup/Git-Demo/```
+	* _Note_: this will create a new folder in your directory called "Git-Demo" containing the cloned repository's files
+5. Create a "remote" repository on GitHub (in your own account) where you can push your changes. 
+ 	* [How to create a GitHub respository](https://help.github.com/articles/creating-a-new-repository/)
+5. Create a link to the remote GitHub Git-Demo repository by using the command:
+	* ```git remote add git-demo-origin https://github.com/SSC-HoCgroup/Git-Demo```
 
-***Note:*** *if you use 'git clone', a new folder will appear in your repository called "Git-Demo" containing the repository's files, whereas using 'git pull' will directly copy the repository's files into your current directory.* 
 
 ####Part 4: Participate and practice Git!
 
@@ -56,7 +49,12 @@
 	* ```git commit -m "Adding my information to participants and introductions - YOUR INITIALS"```
 8. Next, before you push to our repo, first do a 'pull' to make sure your repo is up-to-date.
 	* ```git pull git-demo-origin master```
-9. Lastly, push your changes to our repo! Use the following command: 
+9. Lastly, push your changes to your repo! Use the following command: 
 	* ```git push git-demo-origin master```
 	* When you run this command, you will need to enter your GitHub username and password in order to proceed
-	* **Note:** If you have not been added to our team (Part 1, \#3), you will receive an "Permission Denied" error from GitHub. If this happens, let me know: [send me an email](mailto:mollyawatson@gmail.com).
+10. When you're fully satisified with your materials, submit a Pull Request:
+ 	1. Click "Pull Requests" on the right side of the [#HourofCode Git-Demo repository](https://github.com/SSC-HoCgroup/Git-Demo).
+ 	2. Click the green "New Pull Request" button in the top right corner. 
+ 	3. On the left drop-down, select the branch where your personal Git-Demo respositoy is stored.
+ 	4. Click the green "Create pull request" below. 
+ 	5. That's it! The project's moderator (me) will now review your code and merge it into the [#HourofCode Git-Demo repository](https://github.com/SSC-HoCgroup/Git-Demo).
