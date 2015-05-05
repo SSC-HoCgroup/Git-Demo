@@ -1,8 +1,14 @@
 ﻿Participants of #HourofCode for Fall, 2014:
 -------------------------------------------
 
+
 1. Molly Watson
+
 2. Y’Eli Buonya
+
 3. Molly Watson (clone)
+
 4. Hassan Abdi
+
 5. Stuart Pascua
+6. Chayse Summers
