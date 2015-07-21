@@ -47,7 +47,7 @@
 6. Run 'git status' again to make sure that your files will be included in the next commit you make.
 7. Commit your changes! Use the command:
 	* ```git commit -m "Adding my information to participants and introductions - YOUR INITIALS"```
-8. Next, before you push to our repo, first do a 'pull' to make sure your repo is up-to-date.
+8. Next, before you push to your repo, first do a 'pull' to make sure your repo is up-to-date.
 	* ```git pull git-demo-origin master```
 9. Lastly, push your changes to your repo! Use the following command: 
 	* ```git push git-demo-origin master```
