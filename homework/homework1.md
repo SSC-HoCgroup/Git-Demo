@@ -27,8 +27,8 @@
 	* _Note_: this will create a new folder in your directory called "Git-Demo" containing the cloned repository's files
 5. Create a "remote" repository on GitHub (in your own account) where you can push your changes. 
  	* [How to create a GitHub respository](https://help.github.com/articles/creating-a-new-repository/)
-5. Create a link to the remote GitHub Git-Demo repository by using the command:
-	* ```git remote add git-demo-origin https://github.com/SSC-HoCgroup/Git-Demo```
+6. Create a link to the remote GitHub repository you just created by using the command:
+	* ```git remote add git-demo-origin [insert your GitHub link here]```
 
 
 ####Part 4: Participate and practice Git!
@@ -52,7 +52,7 @@
 9. Lastly, push your changes to your repo! Use the following command: 
 	* ```git push git-demo-origin master```
 	* When you run this command, you will need to enter your GitHub username and password in order to proceed
-10. When you're fully satisified with your materials, submit a Pull Request:
+10. When you're fully satisified with your materials, submit a Pull Request to this Git-Demo repository:
  	1. Click "Pull Requests" on the right side of the [#HourofCode Git-Demo repository](https://github.com/SSC-HoCgroup/Git-Demo).
  	2. Click the green "New Pull Request" button in the top right corner. 
  	3. On the left drop-down, select the branch where your personal Git-Demo respositoy is stored.
