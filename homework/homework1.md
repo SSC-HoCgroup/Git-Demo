@@ -26,7 +26,7 @@
 	* ```git clone https://github.com/SSC-HoCgroup/Git-Demo/```
 	* _Note_: this will create a new folder in your directory called "Git-Demo" containing the cloned repository's files
 5. Create a "remote" repository on GitHub (in your own account) where you can push your changes. 
- 	* [How to create a GitHub respository](https://help.github.com/articles/creating-a-new-repository/)
+ 	* [How to create a GitHub repository](https://help.github.com/articles/creating-a-new-repository/)
 6. Create a link to the remote GitHub repository you just created by using the command:
 	* ```git remote add git-demo-origin [insert your GitHub link here]```
 
